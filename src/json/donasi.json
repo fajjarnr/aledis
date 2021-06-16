@@ -1,0 +1,72 @@
+[
+  {
+    "id": 123283,
+    "image": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/tni-dan-polri-susah-payah-evakuasi-korban-banjir-gowa_20190123_205756.jpg",
+    "name": "Bantu Korban Bencana Banjir",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "progress": 0.8
+  },
+  {
+    "id": 67324724,
+    "image": "https://cdn2.tstatic.net/kaltim/foto/bank/images/perumnas-balaroa-gempa_20181001_083821.jpg",
+    "name": "Bantu Korban Bencana Alam",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "progress": 0.5
+  },
+  {
+    "id": 1536523,
+    "image": "https://assets-a1.kompasiana.com/items/album/2019/06/01/bangun-masjid-20151101-114926-5cf27f3919cf6b21444e9f85.jpg",
+    "name": "Bantu Membangun Masjid",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "progress": 0.6
+  },
+  {
+    "id": 7293842,
+    "image": "https://images.bisnis-cdn.com/posts/2018/05/31/801697/dwiagung220518-1.jpeg",
+    "name": "Bantu Anak Yatim",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "progress": 0.6
+  },
+  {
+    "id": 1678389,
+    "image": "https://assets-a1.kompasiana.com/items/album/2019/06/01/bangun-masjid-20151101-114926-5cf27f3919cf6b21444e9f85.jpg",
+    "name": "Bantu Membangun Masjid",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "progress": 0.6
+  },
+  {
+    "id": 17283,
+    "image": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/tni-dan-polri-susah-payah-evakuasi-korban-banjir-gowa_20190123_205756.jpg",
+    "name": "Bantu Korban Bencana Banjir",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "progress": 0.1
+  },
+  {
+    "id": 1283,
+    "image": "https://cdn2.tstatic.net/kaltim/foto/bank/images/perumnas-balaroa-gempa_20181001_083821.jpg",
+    "name": "Bantu Korban Bencana Alam",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "progress": 0.5
+  },
+  {
+    "id": 8723,
+    "image": "https://assets-a1.kompasiana.com/items/album/2019/06/01/bangun-masjid-20151101-114926-5cf27f3919cf6b21444e9f85.jpg",
+    "name": "Bantu Membangun Masjid",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "progress": 0.6
+  },
+  {
+    "id": 172,
+    "image": "https://images.bisnis-cdn.com/posts/2018/05/31/801697/dwiagung220518-1.jpeg",
+    "name": "Bantu Anak Yatim",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "progress": 0.6
+  },
+  {
+    "id": 81923,
+    "image": "https://assets-a1.kompasiana.com/items/album/2019/06/01/bangun-masjid-20151101-114926-5cf27f3919cf6b21444e9f85.jpg",
+    "name": "Bantu Membangun Masjid",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "progress": 0.6
+  }
+]
